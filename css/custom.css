@@ -1,4 +1,7 @@
-
+table{
+	background-color: #eee;
+	color: #000;
+}
 .results tr[visible='false'],
 .no-result{
   display:none;
@@ -11,4 +14,18 @@
 .counter{
   padding:8px; 
   color:#ccc;
+}
+
+.topminibar {
+    background-color: #2a363f;
+}
+
+#HomeOfferBox {
+    background: #86c724;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    z-index: 1000;
 }
