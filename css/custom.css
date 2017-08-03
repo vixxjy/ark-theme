@@ -29,3 +29,39 @@ table{
     position: relative;
     z-index: 1000;
 }
+#HomeOfferBox h2 {
+    background: #fedc45;
+    color: #000 !important;
+    position: absolute !important;
+    padding: 10px 12px 11px 50px !important;
+    top: -8px;
+    left: 0;
+    z-index: 1;
+}
+.bg_dark{
+	  background: #f3f3f3;
+}
+
+/*modal*/
+.modal{
+  margin-top: 200px;
+  z-index: 100; 
+}
+.modal-dialog{
+  background-color:  #86c724;
+}
+.btn.btn-warning {
+    background: #9ec028 !important;
+}
+.text-orange {
+    color: #9ec028 !important;
+}
+.bg_dark .title {
+    color: #2a363f !important;
+}
+.bg_dark p {
+    color: #2a363f;
+}
+.page-help, .page-help h2 {
+    color: #2a363f;
+}
